@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\bin\Debug\netcoreapp2.1\01. Ages.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\01. Ages\obj\Debug\netcoreapp2.1\01. Ages.pdb

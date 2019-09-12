@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\bin\Debug\netcoreapp2.1\4. Print and sum.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\bin\Debug\netcoreapp2.1\4. Print and sum.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\bin\Debug\netcoreapp2.1\4. Print and sum.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\bin\Debug\netcoreapp2.1\4. Print and sum.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\bin\Debug\netcoreapp2.1\4. Print and sum.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\obj\Debug\netcoreapp2.1\4. Print and sum.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\obj\Debug\netcoreapp2.1\4. Print and sum.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\obj\Debug\netcoreapp2.1\4. Print and sum.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\obj\Debug\netcoreapp2.1\4. Print and sum.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\4. Print and sum\obj\Debug\netcoreapp2.1\4. Print and sum.pdb

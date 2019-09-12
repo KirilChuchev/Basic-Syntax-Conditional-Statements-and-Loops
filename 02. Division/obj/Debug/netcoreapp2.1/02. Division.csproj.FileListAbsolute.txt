@@ -1,0 +1,10 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\bin\Debug\netcoreapp2.1\02. Division.deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\bin\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\bin\Debug\netcoreapp2.1\02. Division.pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\obj\Debug\netcoreapp2.1\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\obj\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\02. Division\obj\Debug\netcoreapp2.1\02. Division.pdb
