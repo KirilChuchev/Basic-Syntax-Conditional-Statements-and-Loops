@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\bin\Debug\netcoreapp2.1\5. Login (HOME).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\bin\Debug\netcoreapp2.1\5. Login (HOME).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\bin\Debug\netcoreapp2.1\5. Login (HOME).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\bin\Debug\netcoreapp2.1\5. Login (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\bin\Debug\netcoreapp2.1\5. Login (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\5. Login (HOME) - 1\obj\Debug\netcoreapp2.1\5. Login (HOME).pdb

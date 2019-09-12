@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\bin\Debug\netcoreapp2.1\6. Strong Number (Home).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\bin\Debug\netcoreapp2.1\6. Strong Number (Home).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\bin\Debug\netcoreapp2.1\6. Strong Number (Home).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\bin\Debug\netcoreapp2.1\6. Strong Number (Home).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\bin\Debug\netcoreapp2.1\6. Strong Number (Home).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\6. Strong Number (Home)\obj\Debug\netcoreapp2.1\6. Strong Number (Home).csprojAssemblyReference.cache

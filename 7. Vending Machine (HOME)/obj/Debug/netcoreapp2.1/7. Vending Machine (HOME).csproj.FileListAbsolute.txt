@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\bin\Debug\netcoreapp2.1\7. Vending Machine (HOME).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\bin\Debug\netcoreapp2.1\7. Vending Machine (HOME).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\bin\Debug\netcoreapp2.1\7. Vending Machine (HOME).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\bin\Debug\netcoreapp2.1\7. Vending Machine (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\bin\Debug\netcoreapp2.1\7. Vending Machine (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\7. Vending Machine (HOME)\obj\Debug\netcoreapp2.1\7. Vending Machine (HOME).pdb
