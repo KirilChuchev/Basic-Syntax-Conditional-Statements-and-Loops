@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\bin\Debug\netcoreapp2.1\10. Rage Expenses (HOME).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\bin\Debug\netcoreapp2.1\10. Rage Expenses (HOME).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\bin\Debug\netcoreapp2.1\10. Rage Expenses (HOME).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\bin\Debug\netcoreapp2.1\10. Rage Expenses (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\bin\Debug\netcoreapp2.1\10. Rage Expenses (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\10. Rage Expenses (HOME)\obj\Debug\netcoreapp2.1\10. Rage Expenses (HOME).csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\bin\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\bin\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\bin\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\bin\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\bin\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\9. Padawan Equipment (HOME)\obj\Debug\netcoreapp2.1\9. Padawan Equipment (HOME).pdb
