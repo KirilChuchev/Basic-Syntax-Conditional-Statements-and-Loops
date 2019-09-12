@@ -1,0 +1,11 @@
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\bin\Debug\netcoreapp2.1\Vacantion (HOME).deps.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\bin\Debug\netcoreapp2.1\Vacantion (HOME).runtimeconfig.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\bin\Debug\netcoreapp2.1\Vacantion (HOME).runtimeconfig.dev.json
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\bin\Debug\netcoreapp2.1\Vacantion (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\bin\Debug\netcoreapp2.1\Vacantion (HOME).pdb
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).AssemblyInfoInputs.cache
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).AssemblyInfo.cs
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).dll
+C:\Users\kickz_oob\source\Dev problem solutions\FUNDAMENTALS\FUNDAMENTALS Exercises\17.05.2019\17.05.2019\obj\Debug\netcoreapp2.1\Vacantion (HOME).pdb
